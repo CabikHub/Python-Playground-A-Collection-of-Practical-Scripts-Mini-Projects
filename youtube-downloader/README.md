@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 Bu araç, video ve sesi birleştirmek için **FFmpeg** gerektirir.
 
-* FFmpeg’in uygun sürümünü [buradan](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip).. indirin
+* FFmpeg’in uygun sürümünü [buradan](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip) indirin
 * ZIP dosyasını çıkartın
 * `bin/ffmpeg.exe` dosyasını bulun
 * Bu dosyayı **main.py ile aynı klasöre** kopyalayın
@@ -71,4 +71,5 @@ Bu araç **yalnızca eğitim amaçlı** olarak oluşturulmuştur.
 YouTube’un **Kullanım Şartları** ve **telif haklarına** uyma sorumluluğu tamamen kullanıcıya aittir.
 
 ---
+
 
