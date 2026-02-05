@@ -27,3 +27,47 @@ python main.py
 
 ⚠️ Disclaimer
 This tool is created for educational purposes only. The user assumes all responsibility for adhering to YouTube's Terms of Service and copyright laws.
+
+---
+
+# 📹 Yüksek Kaliteli YouTube Video İndirici
+
+**yt-dlp** kullanarak YouTube videolarını mümkün olan **en yüksek kalitede** (1080p, 4K, 8K) indiren güçlü bir Python aracı.
+
+## 🚀 Özellikler
+
+* 1080p, 4K ve 8K videoları **sesli** olarak indirir
+* Video ve sesi **FFmpeg** ile otomatik olarak birleştirir
+* Basit, hızlı ve verimli kullanım
+
+## 🛠️ Kurulum
+
+### 1️⃣ Gerekli paketleri yükleyin:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2️⃣ Kritik Adım (FFmpeg Kurulumu):
+
+Bu araç, video ve sesi birleştirmek için **FFmpeg** gerektirir.
+
+* FFmpeg’in uygun sürümünü **buradan** indirin
+* ZIP dosyasını çıkartın
+* `bin/ffmpeg.exe` dosyasını bulun
+* Bu dosyayı **main.py ile aynı klasöre** kopyalayın
+
+## ▶️ Kullanım
+
+Terminal veya komut satırında script’i çalıştırın:
+
+```bash
+python main.py
+```
+
+## ⚠️ Sorumluluk Reddi (Disclaimer)
+
+Bu araç **yalnızca eğitim amaçlı** olarak oluşturulmuştur.
+YouTube’un **Kullanım Şartları** ve **telif haklarına** uyma sorumluluğu tamamen kullanıcıya aittir.
+
+---
