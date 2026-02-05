@@ -4,48 +4,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-## 👋 Welcome!
-This repository serves as a **central collection** for my Python journey. Here, you will find various scripts, automation tools, and mini-projects that I have developed to solve real-world problems and enhance my coding skills.
-
-### 📂 What's Inside?
-This repository is organized into different categories depending on the project type:
-
-* **🛠️ Utility Scripts:** Small tools to automate daily tasks.
-* **📊 Data Analysis:** Projects involving data manipulation and visualization.
-* **🤖 Automation:** Bots and scripts to handle repetitive processes.
-* **🌐 Web Scraping:** Tools for gathering data from the web.
-
----
-
-## 🚀 Getting Started
-
-If you want to test any script in this repository, follow these general steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/CabikHub/Python-Playground-A-Collection-of-Practical-Scripts-Mini-Projects.git]
-    ```
-
-2.  **Install dependencies (if listed):**
-    Check if the specific project folder has a `requirements.txt` file.
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Run the script:**
-    Navigate to the project folder and run the Python file.
-    ```bash
-    python main.py
-    ```
-
----
-
-## ⚠️ Disclaimer
-All scripts and projects in this repository are created for **educational purposes only**. The user assumes all responsibility for adhering to the terms of service and legal guidelines of any platforms interacted with.
-
----
----
-
 # 🇹🇷 Python Oyun Alanı: Pratik Senaryolar ve Projeler
 
 ## 👋 Hoş Geldiniz!
@@ -86,6 +44,49 @@ Bu depodaki herhangi bir scripti test etmek isterseniz, şu genel adımları izl
 
 ## ⚠️ Yasal Uyarı
 Bu depodaki tüm scriptler ve projeler sadece **eğitim amaçlı** hazırlanmıştır. İlgili platformların hizmet şartlarına ve yasal kurallarına uymak tamamen kullanıcının sorumluluğundadır.
+
+---
+
+
+
+## 👋 Welcome!
+This repository serves as a **central collection** for my Python journey. Here, you will find various scripts, automation tools, and mini-projects that I have developed to solve real-world problems and enhance my coding skills.
+
+### 📂 What's Inside?
+This repository is organized into different categories depending on the project type:
+
+* **🛠️ Utility Scripts:** Small tools to automate daily tasks.
+* **📊 Data Analysis:** Projects involving data manipulation and visualization.
+* **🤖 Automation:** Bots and scripts to handle repetitive processes.
+* **🌐 Web Scraping:** Tools for gathering data from the web.
+
+---
+
+## 🚀 Getting Started
+
+If you want to test any script in this repository, follow these general steps:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/CabikHub/Python-Playground-A-Collection-of-Practical-Scripts-Mini-Projects.git]
+    ```
+
+2.  **Install dependencies (if listed):**
+    Check if the specific project folder has a `requirements.txt` file.
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3.  **Run the script:**
+    Navigate to the project folder and run the Python file.
+    ```bash
+    python main.py
+    ```
+
+---
+
+## ⚠️ Disclaimer
+All scripts and projects in this repository are created for **educational purposes only**. The user assumes all responsibility for adhering to the terms of service and legal guidelines of any platforms interacted with.
 
 ---
 
