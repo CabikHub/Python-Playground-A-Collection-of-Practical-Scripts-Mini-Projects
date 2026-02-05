@@ -4,94 +4,88 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-Welcome to my **Python Playground**! 👋
-This repository serves as a collection of practical scripts, automation tools, and mini-projects I've built to solve real-world problems and enhance my coding skills.
+## 👋 Welcome!
+This repository serves as a **central collection** for my Python journey. Here, you will find various scripts, automation tools, and mini-projects that I have developed to solve real-world problems and enhance my coding skills.
+
+### 📂 What's Inside?
+This repository is organized into different categories depending on the project type:
+
+* **🛠️ Utility Scripts:** Small tools to automate daily tasks.
+* **📊 Data Analysis:** Projects involving data manipulation and visualization.
+* **🤖 Automation:** Bots and scripts to handle repetitive processes.
+* **🌐 Web Scraping:** Tools for gathering data from the web.
 
 ---
 
-## 📂 Projects (Projeler)
+## 🚀 Getting Started
 
-### 1. 📹 High Quality YouTube Downloader
-A powerful tool to download YouTube videos in **1080p, 4K, and 8K** quality with merged audio.
+If you want to test any script in this repository, follow these general steps:
 
-* **Libraries:** `yt-dlp`, `ffmpeg`
-* **Key Feature:** Auto-merges video/audio and converts audio to AAC for full Windows compatibility.
-* **File:** `main.py`
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/CabikHub/Python-Playground-A-Collection-of-Practical-Scripts-Mini-Projects.git](https://github.com/CabikHub/Python-Playground-A-Collection-of-Practical-Scripts-Mini-Projects.git)
+    ```
 
-#### 🛠️ Installation & Usage (Kurulum ve Kullanım)
-
-1.  **Install Requirements:**
+2.  **Install dependencies (if listed):**
+    Check if the specific project folder has a `requirements.txt` file.
     ```bash
     pip install -r requirements.txt
     ```
 
-2.  **⚠️ Crucial Step (FFmpeg Setup):**
-    * This tool requires **FFmpeg** to merge video and audio.
-    * Download the correct version (Win64) directly from [here](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip).
-    * Extract the zip file, find `bin/ffmpeg.exe`, and place it **inside this project folder** (next to `main.py`).
-
-3.  **Run the Script:**
+3.  **Run the script:**
+    Navigate to the project folder and run the Python file.
     ```bash
     python main.py
     ```
 
 ---
 
-### 🚧 More Projects Coming Soon...
-* *Planned: Data Analysis Tools*
-* *Planned: Automation Scripts*
-* *Planned: Web Scrapers*
-
----
-
 ## ⚠️ Disclaimer
-All scripts in this repository are created for **educational purposes only**. The user assumes all responsibility for adhering to terms of service and copyright laws of any platforms interacted with.
+All scripts and projects in this repository are created for **educational purposes only**. The user assumes all responsibility for adhering to the terms of service and legal guidelines of any platforms interacted with.
 
 ---
 ---
 
 # 🇹🇷 Python Oyun Alanı: Pratik Senaryolar ve Projeler
 
-**Python Playground**'a hoş geldiniz! 👋
-Bu depo (repository), gerçek hayat problemlerini çözmek ve yazılım becerilerimi geliştirmek için hazırladığım pratik scriptlerin, otomasyon araçlarının ve mini projelerin bir koleksiyonudur.
+## 👋 Hoş Geldiniz!
+Bu depo (repository), benim Python serüvenim için bir **ana merkez** görevi görmektedir. Burada, gerçek hayat problemlerini çözmek ve yazılım becerilerimi geliştirmek için hazırladığım çeşitli scriptleri, otomasyon araçlarını ve mini projeleri bulabilirsiniz.
 
-## 📂 İçerik
+### 📂 İçeride Ne Var?
+Bu depo, proje türüne göre farklı kategorilere ayrılmıştır:
 
-### 1. 📹 Yüksek Kaliteli YouTube İndirici
-YouTube videolarını **1080p, 4K ve 8K** gibi en yüksek kalitelerde, sesle birleştirilmiş olarak indiren güçlü bir araç.
+* **🛠️ Araçlar (Utilities):** Günlük işleri otomatize eden küçük araçlar.
+* **📊 Veri Analizi:** Veri işleme ve görselleştirme içeren projeler.
+* **🤖 Otomasyon:** Tekrarlayan süreçleri yöneten botlar ve scriptler.
+* **🌐 Web Scraping:** İnternetten veri toplama araçları.
 
-* **Kütüphaneler:** `yt-dlp`, `ffmpeg`
-* **Öne Çıkan Özellik:** Görüntü ve sesi otomatik birleştirir, sesi Windows uyumluluğu için AAC formatına çevirir.
-* **Dosya:** `main.py`
+---
 
-#### 🛠️ Kurulum ve Kullanım
+## 🚀 Başlarken
 
-1.  **Gereksinimleri Yükleyin:**
+Bu depodaki herhangi bir scripti test etmek isterseniz, şu genel adımları izleyin:
+
+1.  **Depoyu klonlayın:**
+    ```bash
+    git clone [https://github.com/CabikHub/Python-Playground-A-Collection-of-Practical-Scripts-Mini-Projects.git](https://github.com/CabikHub/Python-Playground-A-Collection-of-Practical-Scripts-Mini-Projects.git)
+    ```
+
+2.  **Gereksinimleri yükleyin (Eğer varsa):**
+    İlgili proje klasöründe `requirements.txt` dosyası olup olmadığını kontrol edin.
     ```bash
     pip install -r requirements.txt
     ```
 
-2.  **⚠️ Kritik Adım (FFmpeg Kurulumu):**
-    * Bu araç, video ve sesi birleştirmek için **FFmpeg** yazılımına ihtiyaç duyar.
-    * Doğru sürümü (Win64) doğrudan [buradan](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip) indirin.
-    * İndirdiğiniz zip dosyasını açın, içindeki `bin/ffmpeg.exe` dosyasını bulun ve **bu proje klasörünün içine** (`main.py` dosyasının yanına) atın.
-
-3.  **Çalıştırın:**
+3.  **Scripti çalıştırın:**
+    Proje klasörüne gidin ve Python dosyasını çalıştırın.
     ```bash
     python main.py
     ```
 
 ---
 
-### 🚧 Yakında Gelecek Projeler...
-* *Planlanan: Veri Analizi Araçları*
-* *Planlanan: Otomasyon Scriptleri*
-* *Planlanan: Web Scraping (Veri Kazıma)*
-
----
-
 ## ⚠️ Yasal Uyarı
-Bu depodaki tüm scriptler sadece **eğitim amaçlı** hazırlanmıştır. İlgili platformların hizmet şartlarına ve telif hakkı yasalarına uymak tamamen kullanıcının sorumluluğundadır.
+Bu depodaki tüm scriptler ve projeler sadece **eğitim amaçlı** hazırlanmıştır. İlgili platformların hizmet şartlarına ve yasal kurallarına uymak tamamen kullanıcının sorumluluğundadır.
 
 ---
 
