@@ -23,7 +23,7 @@ If you want to test any script in this repository, follow these general steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/CabikHub/Python-Playground-A-Collection-of-Practical-Scripts-Mini-Projects.git](https://github.com/CabikHub/Python-Playground-A-Collection-of-Practical-Scripts-Mini-Projects.git)
+    git clone [https://github.com/CabikHub/Python-Playground-A-Collection-of-Practical-Scripts-Mini-Projects.git]
     ```
 
 2.  **Install dependencies (if listed):**
@@ -67,7 +67,7 @@ Bu depodaki herhangi bir scripti test etmek isterseniz, şu genel adımları izl
 
 1.  **Depoyu klonlayın:**
     ```bash
-    git clone [https://github.com/CabikHub/Python-Playground-A-Collection-of-Practical-Scripts-Mini-Projects.git](https://github.com/CabikHub/Python-Playground-A-Collection-of-Practical-Scripts-Mini-Projects.git)
+    git clone [https://github.com/CabikHub/Python-Playground-A-Collection-of-Practical-Scripts-Mini-Projects.git]
     ```
 
 2.  **Gereksinimleri yükleyin (Eğer varsa):**
