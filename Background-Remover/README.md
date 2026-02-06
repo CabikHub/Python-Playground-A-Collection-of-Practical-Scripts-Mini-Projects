@@ -44,6 +44,11 @@ python main.py
 Program ilk kez çalıştırıldığında, yapay zeka modeli (u2net.onnx, yaklaşık 170MB) internetten otomatik olarak indirilir. Bu işlem internet hızınıza bağlı olarak birkaç dakika sürebilir. Sonraki çalıştırmalarda bekleme süresi olmayacaktır.
 
 ---
+## ⚠️ Sorumluluk Reddi (Disclaimer)
+
+Bu araç **yalnızca eğitim amaçlı** olarak oluşturulmuştur.
+YouTube’un **Kullanım Şartları** ve **telif haklarına** uyma sorumluluğu tamamen kullanıcıya aittir.
+---
 
 # 🖼️ AI Background Remover
 
@@ -89,6 +94,7 @@ When the code runs, it takes the source image (Squirrel.jpg), processes it, and 
 
 ⚠️ Important Note
 When the program is run for the first time, the AI model (u2net.onnx, approx. 170MB) will be downloaded automatically. This may take a few minutes depending on your internet speed. Subsequent runs will be instant.
+
 
 
 
