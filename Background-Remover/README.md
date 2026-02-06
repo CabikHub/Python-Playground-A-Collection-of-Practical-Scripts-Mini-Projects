@@ -38,6 +38,7 @@ Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyeb
 Proje dizinindeyken terminale şu komutu yazarak çalıştırabilirsiniz:
 ``` bash
 python main.py
+```
 
 ⚠️ Önemli Not
 
@@ -87,3 +88,4 @@ When the code runs, it takes the source image (Squirrel.jpg), processes it, and 
 
 ⚠️ Important Note
 When the program is run for the first time, the AI model (u2net.onnx, approx. 170MB) will be downloaded automatically. This may take a few minutes depending on your internet speed. Subsequent runs will be instant.
+
