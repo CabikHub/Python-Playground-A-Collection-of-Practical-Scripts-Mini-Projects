@@ -83,9 +83,11 @@ To run this project on your local machine, follow these steps:
 Run the following command in the terminal while in the project directory:
 ```bash
    python main.py
+```
 
 When the code runs, it takes the source image (Squirrel.jpg), processes it, and saves the background-removed version as (output.png).
 
 ⚠️ Important Note
 When the program is run for the first time, the AI model (u2net.onnx, approx. 170MB) will be downloaded automatically. This may take a few minutes depending on your internet speed. Subsequent runs will be instant.
+
 
